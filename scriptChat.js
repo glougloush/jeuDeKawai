@@ -8,7 +8,7 @@ let cats = [
             feed: "Kawaï saute sur ses croquettes avec joie!",
             pet: "Kawaï ronronne mais il va peut-être bientôt te mordre... avec tendresse...",
             play: "Kawaï court partout dans la maison et griffe le canapé",
-            sleep: "Kawaï fait un gros dodo et rêve de maëlys et Loreleï"
+            sleep: "Kawaï fait un gros dodo et rêve de Maëlys et Loreleï"
         }
     }
 ];
