@@ -3,7 +3,7 @@ let cats = [
         name: "Kawaï",
         mood: "Mignon",
         energy: 100,
-        img: "cat1.jpg",
+        img: "IMG-20250420-WA0004.jpg",
         messages: {
             feed: "Kawaï saute sur ses croquettes avec joie!",
             pet: "Kawaï ronronne mais il va peut-être bientôt te mordre... avec tendresse...",
