@@ -57,14 +57,4 @@ function sleepCat(){
         updateCatStatus();
         document.getElementById("message").textContent = cat.messages.sleep;
         
-    }
-
-function changeCat() {
-        chat = (chat + 1) % cats.length;
-        cat = cats[chat];
-    
-        updateCatStatus();
-
-        document.getElementById("message").textContent = "C'est l'heure d'embêter " + cat.name + " !";
-        cat.img = `cat${chat + 1}.jpg`;
-    }
+}
